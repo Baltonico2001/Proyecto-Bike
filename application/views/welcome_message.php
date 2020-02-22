@@ -13,6 +13,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <div id="container">
 	<h1>Proyecto Web</h1>
 	<p>Proyecto para la case de lenguaje de programación 1</p>
+	<p>leonardo es un hp</p>
+	<p>cejon de mierda</p>
 
 	
 
